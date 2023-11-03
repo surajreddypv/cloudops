@@ -1,0 +1,13 @@
+*What is DevOps?
+DevOps is a practice that is followed by the Development team and Operational team together from the beginning to the final stage of the project.
+DevOps mainly focuses on automating and integrating all the stages to achieve faster and more reliable software delivery.
+
+*What are the tools used in each stage of DevOps ?
+1.Plan:-Jira,Confluence,Slack
+2.Code:-GIT,Github,Gitlab,Bitbucket
+3.Build:-Jenkins,Travis CI
+4.Test:-Selenium,TestNG,JUnit
+5.Deployment:-Docker,Kubernetes,Ansible,Puppet
+6.Monitor:-Grafana,kibana
+7.Feedback:-Slack,Email
+8.Operate:-Kubernetes,Docker
