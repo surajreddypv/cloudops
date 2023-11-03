@@ -11,3 +11,4 @@ DevOps mainly focuses on automating and integrating all the stages to achieve fa
 6.Monitor:-Grafana,kibana
 7.Feedback:-Slack,Email
 8.Operate:-Kubernetes,Docker
+End line!!!
